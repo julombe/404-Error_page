@@ -44,7 +44,7 @@ a {
   align-items: center;
 }
 
-.main-text h2 {
+.content h2 {
   width: 586px;
   height: 190px;
   top: 265px;
@@ -59,7 +59,7 @@ a {
   color: #333333;
 }
 
-.main-text p {
+.content p {
   width: 381px;
   height: 108px;
   left: 736px;
