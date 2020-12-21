@@ -11,6 +11,20 @@ body {
   align-items: center;
 }
 
+.main-text h2 {
+  width: 586px;
+  height: 190px;
+  top: 265px;
+  left: 735px;
+
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+}
+
 footer {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
