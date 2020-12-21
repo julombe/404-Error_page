@@ -32,13 +32,37 @@ body {
   left: 736px;
   top: 491px;
 
-  font-family: "Sapce Mono";
+  font-family: "Space Mono";
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 36px;
   letter-spacing: -0.035em;
   color: #4f4f4f;
+}
+
+.btn {
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+  color: #333333;
+}
+
+.btn a {
+  width: 130px;
+  height: 21px;
+  left: 783px;
+  top: 687px;
+
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  color: #333333;
 }
 
 footer {
