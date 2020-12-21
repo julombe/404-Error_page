@@ -6,7 +6,7 @@
 }
 
 .logo-text {
-  font-family: "Inconsolata";
+  /*font-family: "Inconsolata";
   font-size: normal;
   font-weight: bold;
   font-size: 24px;
@@ -16,5 +16,20 @@
   color: #333333;
 
   margin-top: 40px;
-  margin-left: 77px;
+  margin-left: 77px;*/
+
+  font-family: "Inconsolata";
+  position: absolute;
+  width: 133vw;
+  height: 25px;
+  left: 77px;
+  top: 40px;
+  font-style: normal;
+  font-weight: bold;
+  color: #333333;
+  text-transform: uppercase;
+}
+
+.container {
+  display: flex;
 }
