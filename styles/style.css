@@ -9,6 +9,22 @@ a {
   text-decoration: none;
 }
 
+/*.logo-text {
+  width: 133px;
+  height: 25px;
+  left: 77px;
+  top: 40px;
+
+  font-family: "Inconsolata";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 25px;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+  color: #333333;
+}*/
+
 .container {
   display: flex;
   justify-content: center;
@@ -76,7 +92,7 @@ footer {
   margin-bottom: 2%;
 }
 
-/*.logo-text {
+.logo-text {
   font-family: "Inconsolata";
   position: absolute;
   width: 133vw;
@@ -88,13 +104,3 @@ footer {
   color: #333333;
   text-transform: uppercase;
 }
-
-
-.scarecrow {
-  padding-top: 220px;
-}
-
-.main-text {
-  align-items: center;
-}
-*/
