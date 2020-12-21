@@ -44,6 +44,12 @@ a {
   align-items: center;
 }
 
+.container .image {
+  margin-top: 100px;
+  margin-right: 80px;
+  left: 5.35%;
+}
+
 .content h2 {
   width: 586px;
   height: 190px;
