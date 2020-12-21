@@ -29,11 +29,6 @@ footer {
   text-transform: uppercase;
 }
 
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 .scarecrow {
   padding-top: 220px;
