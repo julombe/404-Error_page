@@ -46,7 +46,7 @@ body {
   height: 68px;
   left: 740px;
   top: 663px;
-  color: #333333;
+  background: #333333;
 }
 
 .btn a {
@@ -62,7 +62,7 @@ body {
   line-height: 21px;
   letter-spacing: -0.035em;
   text-transform: uppercase;
-  color: #333333;
+  color: #ffffff;
 }
 
 footer {
