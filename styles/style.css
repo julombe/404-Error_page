@@ -35,3 +35,10 @@
   justify-content: center;
   align-items: center;
 }
+
+.main-text {
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  top: 265px;
+}
