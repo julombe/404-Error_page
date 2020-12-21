@@ -43,18 +43,13 @@
   top: 265px;
 }
 
-footer {
-  width: 226px;
-  height: 17px;
-  left: 607px;
-  top: 1024px;
-  position: absolute;
+.text {
+  display: flex;
+}
 
-  font-family: "Montserrat";
-  font-style: normal;
-  font-weight: 600;
-  margin: 0 auto;
+footer {
+  font-family: "Montserrat", sans-serif;
   font-size: 14px;
-  line-height: 17px;
-  color: #333333;
+  text-align: center;
+  margin-bottom: 2%;
 }
