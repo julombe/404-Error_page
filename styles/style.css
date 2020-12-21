@@ -5,6 +5,10 @@ body {
   box-sizing: border-box;
 }
 
+.container {
+  display: flex;
+}
+
 /*.logo-text {
   font-family: "Inconsolata";
   position: absolute;
