@@ -104,6 +104,10 @@ a {
   color: #ffffff;
 }
 
+.btn a:hover {
+  transition: 2ms;
+}
+
 footer {
   position: absolute;
   margin: 0 auto;
