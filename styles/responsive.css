@@ -2,3 +2,9 @@
 html {
   font-size: 50%;
 }
+
+@media (max-width: 928px) {
+  .container h2 {
+    flex-wrap: wrap;
+  }
+}
