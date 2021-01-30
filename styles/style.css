@@ -104,20 +104,9 @@ a {
 
 /*====footer====*/
 footer {
-  position: absolute;
-  margin: 0 auto;
-  width: 226px;
-  height: 17px;
-  left: 607px;
-  top: 1024px;
-
-  font-family: "Space Mono";
+  font: "Montserrat";
   font-style: normal;
   font-weight: 600;
-  font-size: 14px;
-  line-height: 17px;
-  color: #333333;
 
   text-align: center;
-  margin-bottom: 2%;
 }
