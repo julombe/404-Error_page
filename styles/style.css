@@ -109,4 +109,12 @@ footer {
   font-weight: 600;
 
   text-align: center;
+
+  background: #333333;
+  height: 200px;
+}
+
+footer p {
+  margin: 0 auto;
+  color: #ffffff;
 }
