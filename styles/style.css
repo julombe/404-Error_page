@@ -116,4 +116,7 @@ footer {
 
 footer p {
   color: #ffffff;
+  text-align: center;
+  display: inline-block;
+  margin-top: 100px;
 }
