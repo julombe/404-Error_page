@@ -137,8 +137,3 @@ footer p {
 #links-footer {
   margin: 50px;
 }
-
-#links-footer a {
-  border-bottom: 1px solid var(--color-green);
-  color: var(--color-white);
-}
