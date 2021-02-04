@@ -2,6 +2,7 @@
 
 :root {
   --color-white: #ffffff;
+  --color-black: #333333;
 }
 
 * {
@@ -33,7 +34,7 @@ a {
   letter-spacing: -0.08em;
   text-transform: uppercase;
 
-  color: #333333;
+  color: var(--color-black);
 }
 
 .container {
@@ -75,7 +76,7 @@ a {
   font-size: 64px;
   line-height: 95px;
   letter-spacing: -0.035em;
-  color: #333333;
+  color: var(--color-black);
 }
 
 .content p {
@@ -98,7 +99,7 @@ a {
   width: 216px;
   height: 68px;
   left: 740px;
-  background: #333333;
+  background: var(--color-black);
 
   margin-top: 64px;
 }
