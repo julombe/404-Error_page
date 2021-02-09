@@ -102,6 +102,8 @@ a {
   background: var(--color-black);
 
   margin-top: 64px;
+
+  border-radius: 5px;
 }
 
 .btn a {
