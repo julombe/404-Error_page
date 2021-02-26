@@ -27,6 +27,22 @@ a {
   flex-wrap: wrap;
 }
 
+.content h1 {
+  width: 586px;
+  height: 190px;
+  left: 735px;
+  top: 265px;
+
+  font-family: "Space Mono";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  color: #333333;
+}
+
 /*#logo-text {
   position: absolute;
   width: 133px;
