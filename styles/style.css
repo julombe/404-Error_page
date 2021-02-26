@@ -9,6 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-size: 100%;
 }
 
 body {
@@ -19,7 +20,13 @@ a {
   text-decoration: none;
 }
 
-#logo-text {
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*#logo-text {
   position: absolute;
   width: 133px;
   height: 25px;
@@ -120,7 +127,7 @@ a {
   letter-spacing: -0.035em;
   text-transform: uppercase;
   color: #ffffff;
-}
+}*/
 
 /*====footer====*/
 footer {
