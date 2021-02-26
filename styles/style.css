@@ -23,8 +23,8 @@ a {
 #logo-text {
   width: 133px;
   height: 25px;
-  left: 77px;
-  top: 40px;
+  margin-top: 40px;
+  margin-left: 77px;
 
   font-family: "Inconsolata";
   font-style: normal;
@@ -71,6 +71,8 @@ a {
   font-size: 24px;
   line-height: 36px;
   letter-spacing: -0.035em;
+
+  margin-top: 36px;
 }
 
 /*#logo-text {
