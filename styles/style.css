@@ -56,6 +56,11 @@ img {
   margin-right: 80px;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
 .content h1 {
   width: 586px;
   height: 190px;
