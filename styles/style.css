@@ -18,6 +18,7 @@ body {
 
 a {
   text-decoration: none;
+  cursor: pointer;
 }
 
 #logo-text {
@@ -73,6 +74,26 @@ a {
   letter-spacing: -0.035em;
 
   margin-top: 36px;
+}
+
+.content a {
+  width: 216px;
+  height: 68px;
+  left: 740px;
+  top: 663px;
+  background: #333333;
+
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+
+  color: #ffffff;
 }
 
 /*#logo-text {
