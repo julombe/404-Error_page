@@ -91,9 +91,10 @@ img {
   letter-spacing: -0.035em;
 
   margin-top: 36px;
+  margin-bottom: 88px;
 }
 
-.content a {
+.content .btn {
   width: 216px;
   height: 68px;
   left: 740px;
