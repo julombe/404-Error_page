@@ -97,8 +97,6 @@ img {
 .content .btn {
   width: 216px;
   height: 68px;
-  left: 740px;
-  top: 663px;
   background: #333333;
 
   font-family: Space Mono;
@@ -106,6 +104,8 @@ img {
   font-weight: bold;
   font-size: 14px;
   line-height: 21px;
+
+  padding: 24px 43px 23px 43px;
   /* identical to box height */
 
   letter-spacing: -0.035em;
