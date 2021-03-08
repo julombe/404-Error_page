@@ -97,7 +97,7 @@ img {
 .content .btn {
   width: 216px;
 
-  background: #333333;
+  background: var(--color-black);
 
   font-family: Space Mono;
   font-style: normal;
