@@ -112,7 +112,7 @@ img {
   letter-spacing: -0.035em;
   text-transform: uppercase;
 
-  color: #ffffff;
+  color: var(--color-white);
 }
 
 /*#logo-text {
