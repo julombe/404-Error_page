@@ -12,6 +12,8 @@
   }
   .content h1 {
     font-size: 3rem;
+    justify-content: center;
+    text-align: center;
   }
   .content p {
     font-size: 1.25rem;
