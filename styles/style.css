@@ -9,11 +9,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 100%;
 }
 
 body {
   font-family: "Space Mono";
+  width: 100%;
 }
 
 a {
@@ -35,6 +35,8 @@ a {
   letter-spacing: -0.08em;
   text-transform: uppercase;
   color: var(--color-black);
+
+  position: absolute;
 }
 
 .container {
