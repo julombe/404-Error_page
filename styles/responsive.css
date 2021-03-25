@@ -30,4 +30,7 @@
   .container img {
     width: 50%;
   }
+  .content h1 {
+    font-size: 3.5rem;
+  }
 }
