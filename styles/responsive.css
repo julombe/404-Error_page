@@ -19,3 +19,15 @@
     font-size: 1.25rem;
   }
 }
+
+@media (max-width: 1132px) {
+  .container img {
+    width: 50%;
+  }
+}
+
+@media (min-width: 688px) {
+  .container img {
+    width: 50%;
+  }
+}
