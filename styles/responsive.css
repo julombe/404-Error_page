@@ -33,4 +33,9 @@
   .content h1 {
     font-size: 3.5rem;
   }
+  #logo-text {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
 }
