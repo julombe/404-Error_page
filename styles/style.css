@@ -26,10 +26,11 @@ img {
   display: block;
 }
 
-#header-title {
+header {
   margin-top: 40px;
   margin-left: 77px;
-
+}
+header h1 {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 700;
