@@ -30,7 +30,7 @@ header {
   margin-top: 40px;
   margin-left: 77px;
 }
-header h1 {
+#header-title {
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 700;
